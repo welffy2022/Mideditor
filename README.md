@@ -1,7 +1,7 @@
-# tmeditor
+# mideditor
 
-TMeditor: Enhanced Classroom Assistance Tool
-TMeditor is a comprehensive classroom assistance tool designed to streamline lecture preparation, presentation, and delivery.
+Mideditor: Enhanced Classroom Assistance Tool
+Mideditor is a comprehensive classroom assistance tool designed to streamline lecture preparation, presentation, and delivery.
 Key Features:
 
     Text Editing: Format text with font styles, sizes, and colors.
@@ -11,7 +11,7 @@ Key Features:
     Audio Recording: Record voice for lecture commentary or notes.
 
 Description:
-TMeditor simplifies classroom preparation and delivery for educators. Its intuitive interface and multimedia features enable seamless lecture planning, presentation, and recording. Key capabilities include:
+Mideditor simplifies classroom preparation and delivery for educators. Its intuitive interface and multimedia features enable seamless lecture planning, presentation, and recording. Key capabilities include:
 
     Pre-class media playback for preparation
     Real-time text-to-speech functionality
@@ -27,4 +27,4 @@ Tags:
     Teaching Aid
 
 GitHub Repository:
-git@github.com:welffy2022/tmeditor.git
+git@github.com:welffy2022/mideditor.git
